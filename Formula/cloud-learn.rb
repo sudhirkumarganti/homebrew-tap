@@ -19,8 +19,9 @@ class CloudLearn < Formula
   license "MIT"
   version "0.1.0"
 
-  depends_on "multipass" => :recommended
-  depends_on "docker"    => :recommended
+  # Note: multipass and Docker Desktop ship as casks, not formulae, so we
+  # can't `depends_on` them directly from a Formula. They're listed in
+  # `caveats` instead — users install them via `brew install --cask`.
 
   def install
     # Ship the launcher + the appliance compose + the source the appliance VM
