@@ -15,7 +15,7 @@ class CloudLearn < Formula
   desc "Local multi-cloud simulator (AWS/GCP/Azure) with real backends"
   homepage "https://github.com/sudhirkumarganti/cloud-learn"
   url "https://github.com/sudhirkumarganti/cloud-learn/releases/download/v0.1.0/cloud-learn-0.1.0.tar.gz"
-  sha256 "209716eda5d980243e18a85997b130269c0618df13a1854008e07db6ca4ca101"
+  sha256 "c1ae6b96401e37c548c250e0714d84f76bc0e008c998914a11da593912f50504"
   license "MIT"
   version "0.1.0"
 
