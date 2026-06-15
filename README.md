@@ -5,7 +5,7 @@ Homebrew formulae for Vyomi — local multi-cloud simulator (AWS / GCP / Azure).
 ## Install
 
 ```bash
-brew tap sudhirkumarganti/tap
+brew tap vyomi-cloud/tap
 brew install cloud-learn
 ```
 
