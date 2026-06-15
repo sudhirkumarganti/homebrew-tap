@@ -1,6 +1,6 @@
-# CloudLearn Homebrew Tap
+# Vyomi Homebrew Tap
 
-Homebrew formulae for CloudLearn — local multi-cloud simulator (AWS / GCP / Azure).
+Homebrew formulae for Vyomi — local multi-cloud simulator (AWS / GCP / Azure).
 
 ## Install
 
@@ -28,5 +28,5 @@ open http://localhost:9000
 
 ## Source
 
-The Formula is auto-bumped by [sudhirkumarganti/cloud-learn](https://github.com/sudhirkumarganti/cloud-learn)'s
+The Formula is auto-bumped by [vyomi-cloud/appliance](https://github.com/vyomi-cloud/appliance)'s
 release workflow on every `v*.*.*` tag.
